@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm currently persuing a Master of Environmental Data Science degree at the Bren School at UCSB. I'm learning how to address environmental problems with data science techniques using R and Python. I'm particularly interested in climate change mitigation strategies and emerging technologies in the environmental sector.
+I'm currently persuing a Master of Environmental Data Science degree at the Bren School at UCSB. 
 
-- 🌱 I’m currently learning how to address environmental problems with data science techniques using R and Python. I'm particularly interested in climate change mitigation strategies and cabron offset projects.
+I´m learning how to address environmental problems with data science techniques using R and Python. I'm particularly interested in climate change mitigation strategies and cabron offset projects.
 - ⚡ Fun fact: ...
 
 <!--
