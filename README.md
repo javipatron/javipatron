@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Im Javier
 
 I'm currently persuing a Master of Environmental Data Science degree at the Bren School at UCSB. 
 
