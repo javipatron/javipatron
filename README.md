@@ -1,11 +1,16 @@
 ### Hi there 👋
 
+I'm currently persuing a Master of Environmental Data Science degree at the Bren School at UCSB. I'm learning how to address environmental problems with data science techniques using R and Python. I'm particularly interested in climate change mitigation strategies and emerging technologies in the environmental sector.
+
+- 🌱 I’m currently learning how to address environmental problems with data science techniques using R and Python. I'm particularly interested in climate change mitigation strategies and cabron offset projects.
+- ⚡ Fun fact: ...
+
 <!--
 **javipatron/javipatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
